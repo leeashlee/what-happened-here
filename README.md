@@ -10,7 +10,7 @@ While it’s not needed to play the game, I would appreciate it if you’ll read
 
 Still in development!! <3
 
-**Game progress:** 37%
+**Game progress:** 65%
 
 Below is calculation of the precentages
 
@@ -26,6 +26,6 @@ Below is calculation of the precentages
 **Precentage for each section.**
 - **Intro:** done!
 - **Puzzle 1:** done!
-- **Puzzle 2:** 2%
-- **Puzzle 3:** not started
+- **Puzzle 2:** done!
+- **Puzzle 3:** started
 - **Endings:** not started
