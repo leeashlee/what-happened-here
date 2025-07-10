@@ -1,14 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Front of the House","order":1,"parentId":0,"scrollX":653,"scrollY":404},
-{"id":2,"expanded":false,"name":"House lobby","order":2,"parentId":0,"scrollX":456,"scrollY":548,"quick":false},
-{"id":3,"expanded":false,"name":"Chess puzzle","order":3,"parentId":0,"scrollX":451,"scrollY":324,"quick":false},
+{"id":1,"expanded":true,"name":"Front of the House","order":1,"parentId":0,"scrollX":645,"scrollY":324},
+{"id":2,"expanded":false,"name":"House lobby","order":2,"parentId":0,"scrollX":451,"scrollY":548,"quick":false},
+{"id":3,"expanded":false,"name":"Chess puzzle","order":3,"parentId":0,"scrollX":459,"scrollY":396,"quick":false},
 {"id":4,"expanded":false,"name":"Chess puzzle reward","order":4,"parentId":3,"scrollX":451,"scrollY":367,"quick":false},
-{"id":5,"expanded":false,"name":"Garden Puzzle pt 2","order":6,"parentId":6,"scrollX":451,"scrollY":316,"quick":false},
+{"id":5,"expanded":false,"name":"Garden Puzzle pt 2","order":6,"parentId":6,"scrollX":451,"scrollY":324,"quick":false},
 {"id":6,"expanded":false,"name":"Garden Maze Puzzle","order":5,"parentId":0,"scrollX":451,"scrollY":316,"quick":false},
-{"id":7,"expanded":false,"name":"Garden Puzzle pt 3","order":8,"parentId":6,"scrollX":493,"scrollY":353,"quick":false},
-{"id":8,"expanded":false,"name":"Garden Puzzle pt 3","order":9,"parentId":7,"scrollX":492,"scrollY":344.72727272727275,"quick":false},
+{"id":7,"expanded":true,"name":"Garden Puzzle pt 3","order":8,"parentId":6,"scrollX":451,"scrollY":324,"quick":false},
+{"id":8,"expanded":false,"name":"Garden Puzzle pt 3","order":9,"parentId":7,"scrollX":451,"scrollY":324,"quick":false},
 {"id":9,"expanded":true,"name":"Bad Ending 2","order":7,"parentId":5,"scrollX":509.4545454545455,"scrollY":597.8181818181819,"quick":false},
-{"id":10,"expanded":true,"name":"Kitchen puzzle","order":10,"parentId":0,"scrollX":459,"scrollY":396,"quick":false},
-{"id":11,"expanded":false,"name":"Laundry room","order":11,"parentId":10,"scrollX":451,"scrollY":316,"quick":false}
+{"id":10,"expanded":false,"name":"Kitchen puzzle","order":11,"parentId":0,"scrollX":459,"scrollY":396,"quick":false},
+{"id":11,"expanded":false,"name":"Laundry room","order":12,"parentId":10,"scrollX":451,"scrollY":324,"quick":false},
+{"id":12,"expanded":false,"name":"Spooky kitchen","order":13,"parentId":0,"scrollX":451,"scrollY":396,"quick":false},
+{"id":13,"expanded":false,"name":"Living Room","order":10,"parentId":0,"scrollX":451,"scrollY":316,"quick":false}
 ]
