@@ -47,6 +47,8 @@ NoelTugy
 
 [Hakuen Studio](https://hakuenstudio.itch.io/)
 
+[MOG](https://mogplugins.wordpress.com/rpg-maker-mz/)
+
 - Special thanks:
 
 The Iranian bombers
@@ -61,7 +63,7 @@ And you, thank you for playing!
 
 Still in development!! <3
 
-**Game progress:** 69.5%
+**Game progress:** 95%
 
 Below is calculation of the precentages
 
@@ -78,5 +80,5 @@ Below is calculation of the precentages
 - **Intro:** done!
 - **Puzzle 1:** done!
 - **Puzzle 2:** done!
-- **Puzzle 3:** 15%
+- **Puzzle 3:** 99%
 - **Endings:** not started
