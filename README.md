@@ -80,5 +80,5 @@ Below is calculation of the precentages
 - **Intro:** done!
 - **Puzzle 1:** done!
 - **Puzzle 2:** done!
-- **Puzzle 3:** 99%
+- **Puzzle 3:** done!
 - **Endings:** not started
