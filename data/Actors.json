@@ -5,7 +5,7 @@ null,
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"▓▓▓▓▓▓▓","nickname":"▓▓▓▓","note":"<Menu Portrait: Abby_Menu_Broken>","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"$Ciel","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ciel","nickname":"Cici","note":"<Menu Portrait: Ciel_Menu>","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"▓▓▓▓","nickname":"","note":"<Menu Portrait: Ciel_Menu_Broken>","profile":""},
-{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
