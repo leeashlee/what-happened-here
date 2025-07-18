@@ -63,7 +63,7 @@ And you, thank you for playing!
 
 Still in development!! <3
 
-**Game progress:** 99.5%
+**Game progress:** 99.9%
 
 Below is calculation of the precentages
 
@@ -81,4 +81,4 @@ Below is calculation of the precentages
 - **Puzzle 1:** done!
 - **Puzzle 2:** done!
 - **Puzzle 3:** done!
-- **Endings:** 90%
+- **Endings:** 99%
